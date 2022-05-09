@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/pre">
+        <file>icon_login_avatar_def.PNG</file>
+        <file>icon_off.PNG</file>
+        <file>icon_on.PNG</file>
+        <file>tab_connection_icon.PNG</file>
+        <file>tab_setting_icon.PNG</file>
+    </qresource>
+</RCC>
